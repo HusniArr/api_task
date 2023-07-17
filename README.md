@@ -1,5 +1,5 @@
 # 😎Welcome to simple api by Husni😅
->***api task*** dibangun menggunakan _framework express, database mongodb, dan mongoose_.>
+***api task*** dibangun menggunakan _framework express, database mongodb, dan mongoose_.
 _Ada beberapa Endpoint untuk pengunaan dari api task ini diantaranya:_
 [x] method : GET , /tasks : Menampilkan daftar dari semua task
 [x] method : POST, /tasks : Membuat task baru
