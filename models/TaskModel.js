@@ -2,7 +2,7 @@ const mongoose = require("mongoose");
 const { Schema } = mongoose;
 
 const taskSchema = new Schema({
-    title : String,
+    title : { type: String, required : true},
     description : String,
     completed : { type: Boolean, default : false}
 });
