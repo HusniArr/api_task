@@ -9,6 +9,6 @@
 - [x] method : DELETE, /tasks/{id} : menghapus satu data task berdasarkan parameter id
 
 ***_Langkah -langkah yang perlu diperhatikan sebelum menjalankan aplikasi sebagai berikut:_***
-  _Langkah pertama anda harus menginstall depedensi yg ada di file package.json ketikan perintah diterminal: `npm install`
-  _Dan langkah terakhir untuk menjalankan projeknya ketikan perintah diterminal : `npm start`
+  [] Langkah pertama anda harus menginstall depedensi yg ada di file package.json ketikan perintah diterminal: `npm install`
+  [] Dan langkah terakhir untuk menjalankan projeknya ketikan perintah diterminal : `npm start`
 
