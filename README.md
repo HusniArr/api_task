@@ -7,7 +7,8 @@
 - [x] method : GET, /tasks/{id} : menampilkan detail task berdasarkan parameter id
 - [x] method : PATCH, /tasks/{id} : update task berdasarkan parameter id
 - [x] method : DELETE, /tasks/{id} : menghapus satu data task berdasarkan parameter id
-a > Langkah -langkah yang perlu diperhatikan sebelum menjalankan aplikasi sebagai berikut:
+
+***_Langkah -langkah yang perlu diperhatikan sebelum menjalankan aplikasi sebagai berikut:_***
   _Langkah pertama anda harus menginstall depedensi yg ada di file package.json ketikan perintah diterminal: `npm install`
   _Dan langkah terakhir untuk menjalankan projeknya ketikan perintah diterminal : `npm start`
 
